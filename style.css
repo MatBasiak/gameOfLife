@@ -21,7 +21,7 @@ body {
 }
 
 #board {
-    border: 1px solid red;
+    
     margin: 50px auto 0;
     min-height: 100px;
     min-width: 100px
@@ -37,8 +37,18 @@ body {
 button{
     font-size: 25px;
     text-transform: capitalize;
-    width: 120px;
+    width: 140px;
     height: 40px;
     background-image: linear-gradient(lightgray, gray);
     border-radius :10px;
+}
+input{
+    width: 120px;
+    height: 40px;
+    font-size: 30px;
+
+}
+label{
+    text-transform: capitalize;
+    font-size: 35px;
 }

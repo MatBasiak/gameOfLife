@@ -122,6 +122,7 @@ class GameOfLife {
         this.containerSizeChange();
         this.createBoard();
         this.firstGlider()
+        
 
 
     }
@@ -149,8 +150,14 @@ const newGame = () => {
 
     const game = new GameOfLife(width, height);
     game.start();
+   
     begin.style.display = 'none'
+     play.style.display = 'inline'
+     pause.style.display = "inline"
+    
 }
 
 const begin = document.getElementById('begin');
 begin.addEventListener('click', newGame);
+ play.style.display = "none"
+ pause.style.display="none"
