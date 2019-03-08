@@ -1,4 +1,6 @@
 
+podgląd dostępny pod adresem upbeat-ride-5c1adf.netlify.com
+
 
 # Game of Life
 
