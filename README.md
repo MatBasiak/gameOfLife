@@ -1,5 +1,5 @@
 
-podgląd dostępny pod adresem https://upbeat-ride-5c1adf.netlify.com
+podgląd dostępny pod adresem https://gameoflifeproject.netlify.com/
 
 
 # Game of Life
